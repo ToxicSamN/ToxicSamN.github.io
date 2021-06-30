@@ -3,7 +3,7 @@ title: Welcome to Sammy Shuck's Homepage
 description: I am a Senior Systems Engineer working on my B.S. in Computer Science Software Engineering. I have been working on many development projects in various capacities for the past five years. This is my CS-499 capstone project for completing my studies at SNHU.
 layouts_dir: _Layouts
 menu:
-  - label: "my label1"
+  - label: "Professional Reflection"
     url: "somelink1"
-  - label: "my label2"
+  - label: "Refinement Plan and Code Review
     url: "somelink2"

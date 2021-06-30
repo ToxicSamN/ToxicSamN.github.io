@@ -8,9 +8,9 @@
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:170px;
-  float:left;
-  position:fixed;
+	width:170px;
+	float:left;
+	position:fixed;
 	border: 1px solid #000;
 	-webkit-border-top-right-radius: 4px;
 	-webkit-border-bottom-right-radius: 4px;
@@ -68,7 +68,7 @@ menuitem {
   	height:fit-content;
 	margin-bottom: 12px;
 	line-height: 1em;
-	padding: 6px 6px 6px 7px;
+	padding: 6px 0px 6px 0px;
 
 	background: #AF0011;
 	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);

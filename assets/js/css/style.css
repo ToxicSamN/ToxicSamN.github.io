@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 
 header li {
 	list-style-type: none;
@@ -37,3 +35,6 @@ header li:hover {
   background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
   background: linear-gradient(to top, #C3001D 0%,#950119 100%);
 }
+
+
+@import "{{ site.theme }}";

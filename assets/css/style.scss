@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-a.buttons {
+a.menu {
 	-webkit-font-smoothing: antialiased;
 	font-weight: normal;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
@@ -11,7 +11,12 @@ a.buttons {
 	height: 30px;
 }
 
-header li {
+a.menu:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+menuitem {
 	list-style-type: none;
   	width:132px;
   	height:15px;
@@ -35,7 +40,7 @@ header li {
 
 }
 
-header li:hover {
+menuitem:hover {
   background: #C3001D;
   background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));

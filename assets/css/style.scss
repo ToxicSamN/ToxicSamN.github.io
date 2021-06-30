@@ -53,7 +53,7 @@ a.menu {
 	-webkit-font-smoothing: antialiased;
 	font-weight: normal;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-	height: fit-content;
+	height: 30px;
 }
 
 a.menu:hover {
@@ -63,7 +63,7 @@ a.menu:hover {
 
 menuitem {
 	list-style-type: none;
-  	width:fit-content;
+  	width:160px;
   	height:30px;
 	margin-bottom: 12px;
 	line-height: 1em;

@@ -4,6 +4,12 @@ description: I am a Senior Systems Engineer working on my B.S. in Computer Scien
 layouts_dir: _Layouts
 menu:
   - label: "Professional Reflection"
-    url: "somelink1"
+    url: "reflection.md"
   - label: "Refinement Plan and Code Review"
-    url: "somelink2"
+    url: "refinement_review.md"
+  - label: "Enhancement One"
+    url: "enhancement_one.md"
+  - label: "Enhancement Two"
+    url: "enhancement_two.md"
+  - label: "Enhancement Three"
+    url: "enhancement_three.md"

@@ -4,7 +4,7 @@ description: I am a Senior Systems Engineer working on my B.S. in Computer Scien
 layouts_dir: _Layouts
 menu:
   - label: "Professional Reflection"
-    url: "reflection.html"
+    url: "index.html"
   - label: "Refinement Plan and Code Review"
     url: "refinement_review.html"
   - label: "Enhancement One"

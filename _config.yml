@@ -5,5 +5,5 @@ layouts_dir: _Layouts
 menu:
   - label: "Professional Reflection"
     url: "somelink1"
-  - label: "Refinement Plan and Code Review
+  - label: "Refinement Plan and Code Review"
     url: "somelink2"

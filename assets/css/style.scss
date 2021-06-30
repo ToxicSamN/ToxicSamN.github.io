@@ -1,6 +1,3 @@
----
----
-
 header {
   background-color: #171717;
   color: #FDFDFB;
@@ -18,6 +15,9 @@ header {
   margin: 30px 25px 0 0;
   -webkit-font-smoothing: antialiased;
 }
+
+---
+---
 
 @import "{{ site.theme }}";
 

@@ -1,6 +1,11 @@
 ---
 ---
 
+
+
+
+@import "{{ site.theme }}";
+
 /* Header */
 
 header {
@@ -46,9 +51,6 @@ a.header {
 a.name {
 	white-space: nowrap;
 }
-
-
-@import "{{ site.theme }}";
 
 a.menu {
 	-webkit-font-smoothing: antialiased;

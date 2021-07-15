@@ -1,11 +1,13 @@
 """
-    SammyShuck__wk7_FinalProject_I.py
+    SammyShuck__CS499_enhancement.py
 
     Name: Sammy Shuck
-    Date: 02/21/2021
-    Class: CS350 Emerging Systems Architecture and Technology
-    Term: 21EW3
-    Assignment: 7-1 Final Project I
+    Completion Date: 7/14/2021
+    Capstone Class: CS499 Computer Science Capstone
+
+    Original Date: 02/21/2021
+    Original Class: CS350 Emerging Systems Architecture and Technology
+    Original Assignment: 7-1 Final Project I
 
     This script will utilize a DHT sensor, light senor and three LEDs (red, green, blue) connected
     to a RaspberryPi.

@@ -23,10 +23,10 @@ This enhancement will accomplish the outcomes of demonstrating an ability to use
 <iframe src="https://drive.google.com/file/d/1fvExZ7lUD7lkVA5X-ewyUFkxVZJ_GqLJ/preview" width="640" height="480"></iframe>
 
 ## Refinement Plan
-The code has been commented to identify enhancement plans 
+The code has been commented to identify enhancement plans
 ```python
 # TODO ENHANCEMENT [CS-499-03] - Algorithms and Datastructures
 # TODO ENHANCEMENT [CS-499-04] - Software Engineering/Design and Databases
 # TODO ENHANCEMENT [CS-499-05] - Security Consideration
 ```
-[Code Refinement Plan](https://toxicsamn.github.io/enhancements/SammyShuck__wk7_FinalProject_I.py)
+[Code Refinement Plan](https://github.com/ToxicSamN/ToxicSamN.github.io/blob/main/enhancements/SammyShuck__wk7_FinalProject_I.py)

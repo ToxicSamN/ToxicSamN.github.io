@@ -107,3 +107,9 @@ package-lock.json
 testing.py
 logging_config.yml
 pypi_pack_n_send.py
+
+enhancements/enhancement_algo_datastruct.go
+
+enhancements/test.py
+
+enhancements/notes

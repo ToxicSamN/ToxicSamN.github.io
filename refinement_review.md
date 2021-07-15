@@ -14,6 +14,4 @@ The artifact I have chosen for Databases category is coming from code written in
 This enhancement will accomplish the outcomes of demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
 
 # Code Review
-<video width="320" height="240" controls>
-<source type="video/mp4" src="https://drive.google.com/file/d/1fvExZ7lUD7lkVA5X-ewyUFkxVZJ_GqLJ/view?usp=sharing">
-</video>
+<iframe src="https://drive.google.com/file/d/1fvExZ7lUD7lkVA5X-ewyUFkxVZJ_GqLJ/preview" width="640" height="480"></iframe>

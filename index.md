@@ -3,7 +3,6 @@
 ##### CS-499 Capstone
 ## Professional Reflection
 
----
 ### How We Got Here
 My journey in the Computer Science program started in August of 2018. I chose to come back to 
 college after having a long and decent career as a Systems Engineer. I wanted to step out and 

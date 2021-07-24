@@ -48,3 +48,4 @@ and exciting areas of study. I really enjoyed the mathematics courses and I am h
 additional self-study in this realm to really help solidify the knowledge.
 
 ### Portfolio Summary
+
